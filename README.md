@@ -1,7 +1,7 @@
 # instagram_bot
 
 
-
+an instagram automation to increase followers by using selenium
 
 What do you need??
 * Python
